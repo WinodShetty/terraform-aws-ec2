@@ -1,4 +1,4 @@
-# aws-ec2-instance-module
+# terraform-aws-ec2-instance-module
 
 **Inputs:**
 * ami_id(optional): string value. default value is devops-practice AMI ID
